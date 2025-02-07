@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Calendar.Api",
+    "\\Calendar.Api\\Calendar.Api",
+    "\\Calendar.Api\\Calendar.Api\\Controllers",
+    "\\Calendar.Api\\Calendar.Api\\DTO",
+    "\\Calendar.Api\\Calendar.Api\\DTO\\Commands",
+    "\\Calendar.Api\\Calendar.Api\\Models"
+  ],
+  "PreviewInSolutionExplorer": false
+}

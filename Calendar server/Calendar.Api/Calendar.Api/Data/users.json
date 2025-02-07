@@ -1,0 +1,50 @@
+[
+  {
+    "UserId": "123",
+    "FirstName": "Sara",
+    "LastName": "Cohen",
+    "Email": "sara@gmail.com",
+    "Phone": "0527164545",
+    "Password": "123"
+  },
+  {
+    "UserId": "456",
+    "FirstName": "Chana",
+    "LastName": "Booksboim",
+    "Email": "chana@Booksboim.com",
+    "Phone": "0528565232",
+    "Password": "456"
+  },
+  {
+    "UserId": "789",
+    "FirstName": "Efrat",
+    "LastName": "Kialy",
+    "Email": "efrat@gmail.com",
+    "Phone": "058322322",
+    "Password": "789"
+  },
+  {
+    "UserId": "326151107",
+    "FirstName": "sara",
+    "LastName": "yifrach",
+    "Email": "sarayifrach177@gmail.com",
+    "Phone": "0548425177",
+    "Password": "025868140"
+  },
+  {
+    "UserId": "214",
+    "FirstName": "r",
+    "LastName": "rt",
+    "Email": "rt",
+    "Phone": "09090909",
+    "Password": "090909"
+  },
+  {
+    "UserId": "213527450",
+    "FirstName": "Malky",
+    "LastName": "Sabag",
+    "Email": "malkyyifrach@gmail.com",
+    "Phone": "0534143089",
+    "Password": "Ma54"
+  }
+]

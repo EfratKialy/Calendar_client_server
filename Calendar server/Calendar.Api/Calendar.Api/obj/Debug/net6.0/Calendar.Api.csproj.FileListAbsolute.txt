@@ -1,0 +1,210 @@
+K:\לוי\Project\server side\Calendar\Calendar.Api\Calendar.Api\bin\Debug\net6.0\appsettings.Development.json
+K:\לוי\Project\server side\Calendar\Calendar.Api\Calendar.Api\bin\Debug\net6.0\appsettings.json
+K:\לוי\Project\server side\Calendar\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Calendar.Api.exe
+K:\לוי\Project\server side\Calendar\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Calendar.Api.deps.json
+K:\לוי\Project\server side\Calendar\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Calendar.Api.runtimeconfig.json
+K:\לוי\Project\server side\Calendar\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Calendar.Api.dll
+K:\לוי\Project\server side\Calendar\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Calendar.Api.pdb
+K:\לוי\Project\server side\Calendar\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+K:\לוי\Project\server side\Calendar\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+K:\לוי\Project\server side\Calendar\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+K:\לוי\Project\server side\Calendar\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+K:\לוי\Project\server side\Calendar\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.csproj.AssemblyReference.cache
+K:\לוי\Project\server side\Calendar\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.GeneratedMSBuildEditorConfig.editorconfig
+K:\לוי\Project\server side\Calendar\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.AssemblyInfoInputs.cache
+K:\לוי\Project\server side\Calendar\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.AssemblyInfo.cs
+K:\לוי\Project\server side\Calendar\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.csproj.CoreCompileInputs.cache
+K:\לוי\Project\server side\Calendar\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.MvcApplicationPartsAssemblyInfo.cs
+K:\לוי\Project\server side\Calendar\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.MvcApplicationPartsAssemblyInfo.cache
+K:\לוי\Project\server side\Calendar\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets\msbuild.Calendar.Api.Microsoft.AspNetCore.StaticWebAssets.props
+K:\לוי\Project\server side\Calendar\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Calendar.Api.props
+K:\לוי\Project\server side\Calendar\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Calendar.Api.props
+K:\לוי\Project\server side\Calendar\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Calendar.Api.props
+K:\לוי\Project\server side\Calendar\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets.pack.json
+K:\לוי\Project\server side\Calendar\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets.build.json
+K:\לוי\Project\server side\Calendar\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets.development.json
+K:\לוי\Project\server side\Calendar\Calendar.Api\Calendar.Api\obj\Debug\net6.0\scopedcss\bundle\Calendar.Api.styles.css
+K:\לוי\Project\server side\Calendar\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.csproj.CopyComplete
+K:\לוי\Project\server side\Calendar\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.dll
+K:\לוי\Project\server side\Calendar\Calendar.Api\Calendar.Api\obj\Debug\net6.0\refint\Calendar.Api.dll
+K:\לוי\Project\server side\Calendar\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.pdb
+K:\לוי\Project\server side\Calendar\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.genruntimeconfig.cache
+K:\לוי\Project\server side\Calendar\Calendar.Api\Calendar.Api\obj\Debug\net6.0\ref\Calendar.Api.dll
+K:\לוי\Project\server side\Calendar\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Data\users.json
+K:\לוי\Project\server side\Calendar\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+K:\לוי\Project\server side\Calendar\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Data\events.json
+C:\Users\This User\Downloads\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\This User\Downloads\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\This User\Downloads\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Data\users.json
+C:\Users\This User\Downloads\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Data\events.json
+C:\Users\This User\Downloads\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Calendar.Api.exe
+C:\Users\This User\Downloads\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Calendar.Api.deps.json
+C:\Users\This User\Downloads\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Calendar.Api.runtimeconfig.json
+C:\Users\This User\Downloads\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Calendar.Api.dll
+C:\Users\This User\Downloads\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Calendar.Api.pdb
+C:\Users\This User\Downloads\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\This User\Downloads\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\This User\Downloads\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\This User\Downloads\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\This User\Downloads\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\This User\Downloads\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.csproj.AssemblyReference.cache
+C:\Users\This User\Downloads\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Downloads\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.AssemblyInfoInputs.cache
+C:\Users\This User\Downloads\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.AssemblyInfo.cs
+C:\Users\This User\Downloads\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.csproj.CoreCompileInputs.cache
+C:\Users\This User\Downloads\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\This User\Downloads\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\This User\Downloads\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets\msbuild.Calendar.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\This User\Downloads\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Calendar.Api.props
+C:\Users\This User\Downloads\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Calendar.Api.props
+C:\Users\This User\Downloads\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Calendar.Api.props
+C:\Users\This User\Downloads\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\This User\Downloads\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\This User\Downloads\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\This User\Downloads\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\scopedcss\bundle\Calendar.Api.styles.css
+C:\Users\This User\Downloads\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.csproj.CopyComplete
+C:\Users\This User\Downloads\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.dll
+C:\Users\This User\Downloads\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\refint\Calendar.Api.dll
+C:\Users\This User\Downloads\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.pdb
+C:\Users\This User\Downloads\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.genruntimeconfig.cache
+C:\Users\This User\Downloads\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\ref\Calendar.Api.dll
+C:\Users\This User\Desktop\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\This User\Desktop\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\This User\Desktop\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Data\events.json
+C:\Users\This User\Desktop\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Data\users.json
+C:\Users\This User\Desktop\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Calendar.Api.exe
+C:\Users\This User\Desktop\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Calendar.Api.deps.json
+C:\Users\This User\Desktop\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Calendar.Api.runtimeconfig.json
+C:\Users\This User\Desktop\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Calendar.Api.dll
+C:\Users\This User\Desktop\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Calendar.Api.pdb
+C:\Users\This User\Desktop\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\This User\Desktop\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\This User\Desktop\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\This User\Desktop\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\This User\Desktop\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\This User\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.AssemblyInfo.cs
+C:\Users\This User\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\This User\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\This User\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets\msbuild.Calendar.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\This User\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Calendar.Api.props
+C:\Users\This User\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Calendar.Api.props
+C:\Users\This User\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Calendar.Api.props
+C:\Users\This User\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\This User\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\This User\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\This User\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\scopedcss\bundle\Calendar.Api.styles.css
+C:\Users\This User\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.csproj.CopyComplete
+C:\Users\This User\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.dll
+C:\Users\This User\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\refint\Calendar.Api.dll
+C:\Users\This User\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.pdb
+C:\Users\This User\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.genruntimeconfig.cache
+C:\Users\This User\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\ref\Calendar.Api.dll
+G:\React\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.csproj.AssemblyReference.cache
+G:\React\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.GeneratedMSBuildEditorConfig.editorconfig
+G:\React\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.AssemblyInfoInputs.cache
+G:\React\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.AssemblyInfo.cs
+G:\React\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.csproj.CoreCompileInputs.cache
+G:\React\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.MvcApplicationPartsAssemblyInfo.cs
+G:\React\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.MvcApplicationPartsAssemblyInfo.cache
+G:\React\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.dll
+G:\React\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\refint\Calendar.Api.dll
+G:\React\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.pdb
+G:\React\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\appsettings.Development.json
+G:\React\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\appsettings.json
+G:\React\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Data\events.json
+G:\React\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Data\users.json
+G:\React\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Calendar.Api.exe
+G:\React\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Calendar.Api.deps.json
+G:\React\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Calendar.Api.runtimeconfig.json
+G:\React\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Calendar.Api.dll
+G:\React\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Calendar.Api.pdb
+G:\React\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\React\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\React\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\React\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\React\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\React\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets\msbuild.Calendar.Api.Microsoft.AspNetCore.StaticWebAssets.props
+G:\React\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Calendar.Api.props
+G:\React\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Calendar.Api.props
+G:\React\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Calendar.Api.props
+G:\React\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets.pack.json
+G:\React\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets.build.json
+G:\React\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets.development.json
+G:\React\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\scopedcss\bundle\Calendar.Api.styles.css
+G:\React\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.csproj.CopyComplete
+G:\React\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.genruntimeconfig.cache
+G:\React\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\ref\Calendar.Api.dll
+C:\Users\The user\Desktop\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\The user\Desktop\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\The user\Desktop\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Data\events.json
+C:\Users\The user\Desktop\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Data\users.json
+C:\Users\The user\Desktop\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Calendar.Api.exe
+C:\Users\The user\Desktop\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Calendar.Api.deps.json
+C:\Users\The user\Desktop\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Calendar.Api.runtimeconfig.json
+C:\Users\The user\Desktop\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Calendar.Api.dll
+C:\Users\The user\Desktop\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Calendar.Api.pdb
+C:\Users\The user\Desktop\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\The user\Desktop\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\The user\Desktop\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\The user\Desktop\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\The user\Desktop\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\The user\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.AssemblyInfo.cs
+C:\Users\The user\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\The user\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\The user\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets\msbuild.Calendar.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\The user\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Calendar.Api.props
+C:\Users\The user\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Calendar.Api.props
+C:\Users\The user\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Calendar.Api.props
+C:\Users\The user\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\The user\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\The user\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\The user\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\scopedcss\bundle\Calendar.Api.styles.css
+C:\Users\The user\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.csproj.CopyComplete
+C:\Users\The user\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.dll
+C:\Users\The user\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\refint\Calendar.Api.dll
+C:\Users\The user\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.pdb
+C:\Users\The user\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.genruntimeconfig.cache
+C:\Users\The user\Desktop\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\ref\Calendar.Api.dll
+C:\Users\The user\Desktop\פרויקט Calender\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\The user\Desktop\פרויקט Calender\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\The user\Desktop\פרויקט Calender\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Data\users.json
+C:\Users\The user\Desktop\פרויקט Calender\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Data\events.json
+C:\Users\The user\Desktop\פרויקט Calender\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Calendar.Api.exe
+C:\Users\The user\Desktop\פרויקט Calender\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Calendar.Api.deps.json
+C:\Users\The user\Desktop\פרויקט Calender\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Calendar.Api.runtimeconfig.json
+C:\Users\The user\Desktop\פרויקט Calender\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Calendar.Api.dll
+C:\Users\The user\Desktop\פרויקט Calender\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Calendar.Api.pdb
+C:\Users\The user\Desktop\פרויקט Calender\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\The user\Desktop\פרויקט Calender\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\The user\Desktop\פרויקט Calender\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\The user\Desktop\פרויקט Calender\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\The user\Desktop\פרויקט Calender\Calendar server\Calendar.Api\Calendar.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\The user\Desktop\פרויקט Calender\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\פרויקט Calender\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\פרויקט Calender\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\פרויקט Calender\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.AssemblyInfo.cs
+C:\Users\The user\Desktop\פרויקט Calender\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\פרויקט Calender\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\The user\Desktop\פרויקט Calender\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\The user\Desktop\פרויקט Calender\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets\msbuild.Calendar.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\The user\Desktop\פרויקט Calender\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Calendar.Api.props
+C:\Users\The user\Desktop\פרויקט Calender\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Calendar.Api.props
+C:\Users\The user\Desktop\פרויקט Calender\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Calendar.Api.props
+C:\Users\The user\Desktop\פרויקט Calender\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\The user\Desktop\פרויקט Calender\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\The user\Desktop\פרויקט Calender\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\The user\Desktop\פרויקט Calender\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\scopedcss\bundle\Calendar.Api.styles.css
+C:\Users\The user\Desktop\פרויקט Calender\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.csproj.CopyComplete
+C:\Users\The user\Desktop\פרויקט Calender\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.dll
+C:\Users\The user\Desktop\פרויקט Calender\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\refint\Calendar.Api.dll
+C:\Users\The user\Desktop\פרויקט Calender\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.pdb
+C:\Users\The user\Desktop\פרויקט Calender\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\Calendar.Api.genruntimeconfig.cache
+C:\Users\The user\Desktop\פרויקט Calender\Calendar server\Calendar.Api\Calendar.Api\obj\Debug\net6.0\ref\Calendar.Api.dll
